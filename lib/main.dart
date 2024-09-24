@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
           primary: Colors.white,
         ),
       ),
+      debugShowCheckedModeBanner: false, //enlever la banière de debegage
     );
   }
 }

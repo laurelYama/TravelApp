@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:e_commerce/pages/details_pages.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 
 void main() {
